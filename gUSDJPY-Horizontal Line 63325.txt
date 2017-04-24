@@ -1,0 +1,6 @@
+price=125.699
+color=8388736
+width=1
+style=0
+text=1W
+timeframes=255

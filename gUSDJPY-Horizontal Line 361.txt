@@ -1,0 +1,6 @@
+price=110.259
+color=255
+width=1
+style=0
+text=1m
+timeframes=1
