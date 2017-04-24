@@ -9,7 +9,7 @@ echo # GIT ADD, COMMIT, PUSH
 echo #########################
 setlocal
 set GIT_EXE=git
-set SYMBOL=%2
+set SYMBOL=%1
 echo CURRENT DIRECTORY=[%~dp0]
 cd %~dp0
 
@@ -27,4 +27,3 @@ echo [push]---------------------------
 echo finish.
 
 endlocal
-pause
