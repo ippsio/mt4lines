@@ -27,4 +27,3 @@ echo [push]---------------------------
 echo finish.
 
 endlocal
-pause
