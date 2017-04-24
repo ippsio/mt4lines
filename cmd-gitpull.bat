@@ -3,8 +3,8 @@ echo #########################
 echo # GIT PULL
 echo #########################
 setlocal
-set GIT_EXE=%1
-set SYMBOL=%2
+set GIT_EXE=git
+set SYMBOL=%1
 echo CURRENT DIRECTORY=[%~dp0]
 cd %~dp0
 
