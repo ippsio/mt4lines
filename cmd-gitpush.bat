@@ -2,7 +2,6 @@ echo off
 echo #########################
 echo # GIT ADD, COMMIT, PUSH
 echo #########################
-echo "abc" > C:\mt4\xm_real7\MQL4\Files\mt4_hline\hoge.txt
 setlocal
 
 set GIT_EXE=git
